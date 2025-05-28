@@ -1,0 +1,7 @@
+System Monitor Log
+Timestamp: 28.05.2025-14:23:22
+
+CPU Usage: 10.6%
+Memory Usage: 38.9%
+Disk Usage: 35.9%
+  
