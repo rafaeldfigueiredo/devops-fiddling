@@ -1,0 +1,4 @@
+{
+	"name": "DevOps Workspace",
+	"postCreateCommand": "bash /workspaces/devops-fiddling/server-monitor/startup.sh"
+}
